@@ -44,17 +44,13 @@ body {
     top: 40%;
     left: 23%;
 }
-.owl-carousel {
-    position: absolute;
-    width: 54%;
-    margin: 0 auto; 
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 .owl-carousel.owl-loaded {
   position: absolute;
   width: 50%;
+  margin: 0 auto;
+  top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .owl-stage-outer {
     position: relative;
